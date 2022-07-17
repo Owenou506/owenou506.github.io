@@ -1,0 +1,37 @@
+#About{
+    background: #E4DCCF;
+    padding-top: 60px;
+    padding-bottom: 26px;
+    h4 {
+        font-family: monospace;
+        font-size: 32px;
+        color: rgb(97, 92, 92);
+        text-align: center;
+        text-transform: uppercase;
+        text-shadow: 1px 1px whitesmoke;
+    }
+    h5{
+        text-align: center;
+        font-family:arial;
+        font-size: 24px;
+        padding-top: 10px;
+    }
+    p{
+        text-align-last: center;
+        font-family: monospace;
+        font-size: 18px;
+        padding-left: 130px;
+        padding-right: 40px;
+        padding-top: 50px;
+    }
+}
+.about__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    // flex-basis: 70%;
+    align-items: center;
+}

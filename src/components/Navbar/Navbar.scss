@@ -1,0 +1,35 @@
+.navbar__brand{
+    font-family: Comic Sans MS;
+    text-shadow: 0.3px 0.3px black;
+    
+}
+.navbar__link__home{
+   &:hover{
+    background-color: rgb(176, 207, 218);
+    border-radius: 10px 10px 10px 10px;
+   }
+}
+.navbar__link__about{
+    &:hover{
+     background-color: rgb(176, 207, 218);
+     border-radius: 10px 10px 10px 10px;
+    }
+}
+.navbar__link__projects{
+    &:hover{
+     background-color: rgb(176, 207, 218);
+     border-radius: 10px 10px 10px 10px;
+    }
+}
+.navbar__link__skills{
+   &:hover{
+    background-color: rgb(176, 207, 218);
+    border-radius: 10px 10px 10px 10px;
+   }
+}
+.navbar__link__contact{
+    &:hover{
+     background-color: rgb(176, 207, 218);
+     border-radius: 10px 10px 10px 10px;
+    }
+}

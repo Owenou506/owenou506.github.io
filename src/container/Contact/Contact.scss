@@ -1,0 +1,24 @@
+.contact__container{
+    h2{
+        text-align: center;
+        padding-top:8px;
+        padding-bottom: 4px;
+    }
+    p{
+        text-align: center;
+    }
+}
+
+.contact__social{
+    // text-align: center;
+}
+.social-handle-list {
+    list-style: none;
+    display:flex;
+    justify-content: center;
+}
+  
+.social-handle-item {
+    // padding: 10px;
+    padding-right: 40px;
+}
