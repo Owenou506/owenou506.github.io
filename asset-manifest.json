@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39f86f6a.css",
+    "main.js": "/static/js/main.a969b36a.js",
+    "static/media/coding.gif": "/static/media/coding.b31655aeb566789dab09.gif",
+    "static/media/python.png": "/static/media/python.643111fa843eca5d8bbd.png",
+    "static/media/java.png": "/static/media/java.66d5a4fef00821dfe115.png",
+    "static/media/sass.png": "/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/mongo.png": "/static/media/mongo.7a16fc61d457c9e340e2.png",
+    "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/docker.png": "/static/media/docker.6a1c2220a00d3844eea0.png",
+    "static/media/angular.png": "/static/media/angular.59e5b9679af9b9f00d6b.png",
+    "static/media/react.png": "/static/media/react.b37f0a4b7134b3c99d6e.png",
+    "static/media/mysql.png": "/static/media/mysql.ddd2c1c93bb0ee974d33.png",
+    "static/media/figma.png": "/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/index.html",
+    "main.39f86f6a.css.map": "/static/css/main.39f86f6a.css.map",
+    "main.a969b36a.js.map": "/static/js/main.a969b36a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f86f6a.css",
+    "static/js/main.a969b36a.js"
+  ]
+}
